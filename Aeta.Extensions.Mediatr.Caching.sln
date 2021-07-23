@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7E031485-7570-4D46-B730-5AC997C0FFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeta.Extensions.Mediatr.Caching", "src\Aeta.Extensions.Mediatr.Caching\Aeta.Extensions.Mediatr.Caching.csproj", "{E0159C71-877F-412F-9083-BDA0983AB445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0159C71-877F-412F-9083-BDA0983AB445} = {7E031485-7570-4D46-B730-5AC997C0FFBC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0159C71-877F-412F-9083-BDA0983AB445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0159C71-877F-412F-9083-BDA0983AB445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0159C71-877F-412F-9083-BDA0983AB445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0159C71-877F-412F-9083-BDA0983AB445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
